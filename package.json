@@ -3,13 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@clhenrick/tooltip-component": "https://api.observablehq.com/@clhenrick/tooltip-component.tgz?v=3",
+    "@mkfreeman/plot-tooltip": "https://api.observablehq.com/@mkfreeman/plot-tooltip.tgz?v=3",
+    "@observablehq/how-to-embed-a-notebook-in-a-react-app": "https://api.observablehq.com/@observablehq/how-to-embed-a-notebook-in-a-react-app.tgz?v=3",
+    "@observablehq/runtime": "4",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
+    "add": "^2.0.6",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "yarn": "^1.22.18"
   },
   "scripts": {
     "start": "react-scripts start",
